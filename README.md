@@ -16,8 +16,7 @@ The program does not actually contain any viruses. However, if you are concerned
 
 ## system requirements
 
-### Windows 10/11 or higher. (Created to work in linux environment with wine, but deprecated)
-
+### Windows 10/11 or higher.
 ### At least score1000+ on cinebench R23 multi-core
 
 ### At least 15 MB of free space
